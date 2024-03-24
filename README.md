@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ignasius Riandro Raul</h1>
-<h3 align="center">A passionate Software Engineer from Indonesia</h3>
+<h3 align="center">Passionate Developer 🔥🔥🔥 | Loves Technology 💻🖥</h3>
 
 - 📫 How to reach me **riandroraul@gmail.com**
 
